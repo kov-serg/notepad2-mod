@@ -1,3 +1,5 @@
+First change
+
 This version of Notepad2 has been modified from Florian Balmer's original
 version using patches by Kai Liu and others.
 
